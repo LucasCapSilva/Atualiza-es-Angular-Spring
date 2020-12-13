@@ -1,0 +1,11 @@
+.texto{
+    letter-spacing: .2rem;
+    font-size: 16pt;
+}
+body{
+    background-color:#343A40;
+}
+
+a{
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.bg-preto{
+    background-color: #343A40;
+}
+
+.bg-vermelho{
+    background-color: black;
+}
+
+.faGithub, .faLinkedin, .faInstagram{
+    color:black;
+}
+
+.faGithub:hover{
+    color: #F24B4B;
+ }
+
+.faLinkedin:hover{
+    color: #F24B4B;
+}
+
+.faInstagram:hover{
+    color: #F24B4B;
+}
+
+

@@ -1,0 +1,14 @@
+.parallax{
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2019/11/dragon-master-swain-lol-splash-art-league-of-legends-lol_1574102850.jpg");
+    
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color:black;
+}
