@@ -22,7 +22,6 @@ export class LoginComponent implements OnInit {
    
     this.authService.logar(this.userLogin).subscribe((resp: UserLogin)=>{
       this.userLogin = resp
-      environment.token = this.userLogin.token
       environment.admin = this.userLogin.admin
       console.log(environment.token)
       console.log(environment.admin)

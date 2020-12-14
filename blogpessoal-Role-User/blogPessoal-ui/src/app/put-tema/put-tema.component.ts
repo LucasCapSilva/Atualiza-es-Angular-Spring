@@ -9,7 +9,7 @@ import { TemaService } from '../service/tema.service';
   styleUrls: ['./put-tema.component.css']
 })
 export class PutTemaComponent implements OnInit {
-
+  
   tema: Tema = new Tema()
 
   constructor(
